@@ -4,13 +4,8 @@
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=AI%2FML+Engineer+%E2%86%92+Software+Developer;Computer+Vision+Explorer+%E2%86%92+AI+Detection;Cybersecurity+Enthusiast+%E2%86%92+Threat+Detection;Building+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Animated roles"/>
+
 </a>
-
-<br/>
-
-
-
-
 
 </div>
 
@@ -22,17 +17,17 @@
 
 I'm a 3rd-year B.Tech IT student interested in building practical solutions across AI/ML, Computer Vision, Cybersecurity, and Software Development.
 
-I enjoy taking an idea from experimentation to a working project while continuously improving my engineering fundamentals.
+I enjoy taking an idea from experimentation to a working project while continuously improving my programming, problem-solving, and engineering fundamentals.
 
 </td>
 <td width="45%">
 
 🚀 Building real-world projects
 🤖 Exploring AI & Machine Learning
-👁️ Working with Computer Vision
-🔐 Exploring Cybersecurity
+👁️ Exploring Computer Vision
+🔐 Learning Cybersecurity & Threat Detection
 💻 Developing software & web applications
-📚 Learning something new every day
+📚 Learning and improving every day
 
 </td>
 </tr>
@@ -66,16 +61,11 @@ I enjoy taking an idea from experimentation to a working project while continuou
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-
-
-
+Focus: Machine Learning • Deep Learning • Model Inference • AI Detection
 
 👁️ Computer Vision
 
-
-
-
-
+Focus: Image Detection • CNNs • Computer Vision • AI-Generated Image Detection
 
 🌐 Web Development
 
@@ -83,7 +73,7 @@ I enjoy taking an idea from experimentation to a working project while continuou
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,threejs" />
 </p>
 
-Node.js • Express.js • Three.js • Spline • Responsive UI • Interactive Web Experiences
+Technologies: Node.js • Express.js • Three.js • Spline • Responsive UI • Interactive Web Experiences
 
 ☁️ Backend & Cloud
 
@@ -91,14 +81,11 @@ Node.js • Express.js • Three.js • Spline • Responsive UI • Interactive
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,supabase" />
 </p>
 
-Firebase Authentication • Cloud Firestore • Firebase Storage • Firebase Hosting • MongoDB • Supabase
+Technologies: Firebase Authentication • Cloud Firestore • Firebase Storage • Firebase Hosting • MongoDB • Supabase
 
 🔐 Cybersecurity & Data Streaming
 
-
-
-
-Currently Learning: Zeek • Apache Kafka
+Exploring: Threat Detection • Network Security Monitoring • Security Data Analysis • Data Streaming
 
 🧰 Tools & Environment
 
@@ -106,34 +93,23 @@ Currently Learning: Zeek • Apache Kafka
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-🚀 Featured Projects
+🚀 Featured Project
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 📝 ExamPro
 
 Online Examination System
 
-A web-based platform for conducting and managing examinations digitally, featuring authentication, student/admin workflows, Firestore data management, and an interactive UI.
+A web-based platform for conducting and managing examinations digitally, featuring authentication, student/admin workflows, Firestore data management, and an interactive user interface.
 
 Stack:
-HTML CSS JavaScript Firebase Firestore Three.js Spline Supabase MongoDB
+HTML • CSS • JavaScript • Firebase • Firestore • Three.js • Spline • Supabase • MongoDB
 
-🔗 Repository
-🌐 Live Website
-
-</td>
-
-<td width="50%">
-
-👁️ AI Image Detection
-
-Exploring deep-learning approaches for detecting AI-generated and manipulated images.
-
-Focus:
-Python PyTorch OpenCV CNNs Computer Vision Model Inference
+🔗 Repository: ExamPro
+🌐 Live Website: exampro-9398b.web.app
 
 </td>
 </tr>
